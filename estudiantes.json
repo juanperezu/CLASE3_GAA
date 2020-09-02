@@ -1,0 +1,30 @@
+[
+  {
+    "nombre": "Angel",
+    "edad": 17,
+    "genero": "Masculino",
+    "departamento": "Antioquia",
+    "colegio": "Gilberto Alzate A."
+  },
+  {
+    "nombre": "Angélica",
+    "edad": 17,
+    "genero": "Femenino",
+    "departamento": "Antioquia",
+    "colegio": "Gilberto Alzate A."
+  },
+  {
+    "nombre": "Anlly Lorena",
+    "edad": 17,
+    "genero": "Femenino",
+    "departamento": "Antioquia",
+    "colegio": "Gilberto Alzate A."
+  },
+  {
+    "nombre": "Mariana",
+    "edad": 17,
+    "genero": "Femenino",
+    "departamento": "Antioquia",
+    "colegio": "Gilberto Alzate A."
+  }
+]
